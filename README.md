@@ -4,7 +4,9 @@
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter)
 
 a. on a pull request a set of unit and e2e tests would be run to ensure working code is committed to main.
+
 b. shorter version of the pull request tests that will ensure working code and good quality.
+
 c. long form tests with a large amount of e2e testing.
 
 2. Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
